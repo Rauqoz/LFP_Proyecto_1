@@ -1,0 +1,10 @@
+C:\Users\Rau\source\repos\Proyecto 1 LFP\Proyecto 1 LFP\bin\Debug\Proyecto 1 LFP.exe.config
+C:\Users\Rau\source\repos\Proyecto 1 LFP\Proyecto 1 LFP\bin\Debug\Proyecto 1 LFP.exe
+C:\Users\Rau\source\repos\Proyecto 1 LFP\Proyecto 1 LFP\bin\Debug\Proyecto 1 LFP.pdb
+C:\Users\Rau\source\repos\Proyecto 1 LFP\Proyecto 1 LFP\obj\Debug\Proyecto 1 LFP.csprojAssemblyReference.cache
+C:\Users\Rau\source\repos\Proyecto 1 LFP\Proyecto 1 LFP\obj\Debug\Proyecto_1_LFP.Form1.resources
+C:\Users\Rau\source\repos\Proyecto 1 LFP\Proyecto 1 LFP\obj\Debug\Proyecto_1_LFP.Properties.Resources.resources
+C:\Users\Rau\source\repos\Proyecto 1 LFP\Proyecto 1 LFP\obj\Debug\Proyecto 1 LFP.csproj.GenerateResource.cache
+C:\Users\Rau\source\repos\Proyecto 1 LFP\Proyecto 1 LFP\obj\Debug\Proyecto 1 LFP.csproj.CoreCompileInputs.cache
+C:\Users\Rau\source\repos\Proyecto 1 LFP\Proyecto 1 LFP\obj\Debug\Proyecto 1 LFP.exe
+C:\Users\Rau\source\repos\Proyecto 1 LFP\Proyecto 1 LFP\obj\Debug\Proyecto 1 LFP.pdb

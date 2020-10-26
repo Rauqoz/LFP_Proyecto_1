@@ -1,0 +1,20 @@
+digraph G { 
+start; 
+start [shape = Mdiamond label="nombre de grafico"]; 
+start -> Asia
+Asia [shape = record label=Asia]; 
+Asia -> Japon
+Japon [shape = record label="{Japon|80}" style = filled fillcolor = red];
+Asia -> China
+China [shape = record label="{China|95}" style = filled fillcolor = red];
+Asia -> Korea
+Korea [shape = record label="{Korea|40}" style = filled fillcolor = green];
+start -> America
+America [shape = record label=America]; 
+America -> Canada
+Canada [shape = record label="{Canada|65}" style = filled fillcolor = orange];
+America -> Guatemala
+Guatemala [shape = record label="{Guatemala|40}" style = filled fillcolor = green];
+America -> Chile
+Chile [shape = record label="{Chile|60}" style = filled fillcolor = yellow];
+}

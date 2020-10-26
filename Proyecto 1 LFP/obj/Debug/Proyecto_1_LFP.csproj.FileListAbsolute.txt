@@ -1,0 +1,13 @@
+C:\Users\Rau\source\repos\Proyecto 1 LFP\Proyecto 1 LFP\bin\Debug\Proyecto_1_LFP.exe.config
+C:\Users\Rau\source\repos\Proyecto 1 LFP\Proyecto 1 LFP\bin\Debug\Proyecto_1_LFP.exe
+C:\Users\Rau\source\repos\Proyecto 1 LFP\Proyecto 1 LFP\bin\Debug\Proyecto_1_LFP.pdb
+C:\Users\Rau\source\repos\Proyecto 1 LFP\Proyecto 1 LFP\obj\Debug\Proyecto_1_LFP.csprojAssemblyReference.cache
+C:\Users\Rau\source\repos\Proyecto 1 LFP\Proyecto 1 LFP\obj\Debug\Proyecto_1_LFP.Form1.resources
+C:\Users\Rau\source\repos\Proyecto 1 LFP\Proyecto 1 LFP\obj\Debug\Proyecto_1_LFP.Properties.Resources.resources
+C:\Users\Rau\source\repos\Proyecto 1 LFP\Proyecto 1 LFP\obj\Debug\Proyecto_1_LFP.csproj.GenerateResource.cache
+C:\Users\Rau\source\repos\Proyecto 1 LFP\Proyecto 1 LFP\obj\Debug\Proyecto_1_LFP.csproj.CoreCompileInputs.cache
+C:\Users\Rau\source\repos\Proyecto 1 LFP\Proyecto 1 LFP\obj\Debug\Proyecto_1_LFP.exe
+C:\Users\Rau\source\repos\Proyecto 1 LFP\Proyecto 1 LFP\obj\Debug\Proyecto_1_LFP.pdb
+C:\Users\Rau\source\repos\Proyecto 1 LFP\Proyecto 1 LFP\bin\Debug\itextsharp.dll
+C:\Users\Rau\source\repos\Proyecto 1 LFP\Proyecto 1 LFP\bin\Debug\itextsharp.xml
+C:\Users\Rau\source\repos\Proyecto 1 LFP\Proyecto 1 LFP\obj\Debug\Proyecto_1_LFP.csproj.CopyComplete
